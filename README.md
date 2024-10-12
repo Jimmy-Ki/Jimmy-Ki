@@ -14,6 +14,8 @@ width="800"  height="3">
 - 👀 I’m interested in llms, python, RAG etc.
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me: manager_jmq@qq.com
+- 🧑‍🤝‍🧑 My friends: Leezhuuuuu(https://github.com/leezhuuuuu)
+- 🤵 My work account: JiangMengqi(https://github.com/JIANGMENGQI-L)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Jimmy-Ki&show_icons=true&theme=transparent)
